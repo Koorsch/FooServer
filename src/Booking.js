@@ -7,35 +7,23 @@ class Booking {
     this.timeoutIds = [];
     this.areas = [
       {
-        area: "Svartheim",
+        area: "Midgard",
         spots: 400,
         available: rndBetween(1, 400),
         direction: -1,
       },
       {
-        area: "Nilfheim",
+        area: "Vanaheim",
         spots: 300,
         available: rndBetween(1, 300),
         direction: -1,
       },
       {
-        area: "Helheim",
+        area: "Alfheim",
         spots: 100,
         available: rndBetween(1, 100),
         direction: -1,
-      },
-      {
-        area: "Muspelheim",
-        spots: 200,
-        available: rndBetween(1, 200),
-        direction: -1,
-      },
-      {
-        area: "Alfheim",
-        spots: 250,
-        available: rndBetween(1, 250),
-        direction: -1,
-      },
+      }
     ];
     //sell out random area
     const areaIndex = rndBetween(0, this.areas.length - 1);

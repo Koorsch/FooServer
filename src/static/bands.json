@@ -218,7 +218,7 @@
     "isBig": true
   },
   {
-    "name": "Steuber Group 2",
+    "name": "Steuber Group",
     "members": [
       "Immanuel Gutkowski",
       "Gordon McGlynn",
@@ -226,17 +226,19 @@
       "Lenora Waelchi"
     ],
     "genre": "Rock",
-    "logo": "https://source.unsplash.com/random/720x480?random=12881",
+    "logo": "https://source.unsplash.com/random/",
     "bio": "Repellendus nisi ut accusantium aspernatur nostrum ut quis consectetur animi. Aut facilis vitae eligendi. Voluptatem dolor odio ab.\n \rEt impedit accusamus corporis consectetur. Corporis rerum rerum ut est voluptatem nam non qui explicabo. Voluptas aliquid nihil quas error.\n \rEos velit ea hic sunt. Culpa sequi dignissimos eius non et unde nihil maxime magni. Quia a sed sit ut tempore harum. Laborum nisi consequuntur nihil optio blanditiis et. Nihil omnis nisi quas laboriosam. Et vitae voluptas delectus molestias numquam fugit eos quasi.",
-    "slug": "steuber-group"
+    "slug": "steuber-group",
+    "isBig": false
   },
   {
     "name": "Howe, Beahan and Waelchi",
     "members": ["Rusty Keebler", "Kyra Russel", "Ruth Flatley"],
     "genre": "Rock",
-    "logo": "https://source.unsplash.com/random/720x480?random=57035",
+    "logo": "https://source.unsplash.com/random/",
     "bio": "Ea dolorem atque modi tempora et eos veniam. Sapiente quibusdam velit facilis unde sapiente ratione possimus velit. Aut nihil et est recusandae nostrum. Repellat harum alias placeat et enim.\n \rIpsam repudiandae molestias consequatur ut doloremque. Rerum sint expedita numquam voluptatibus voluptas. Qui eum adipisci et quibusdam aut sit delectus repellat nemo.\n \rPorro laborum qui. Aut autem laborum excepturi voluptatem. Enim quos officia in veritatis velit. Debitis corrupti et sed est cupiditate officia aperiam consequatur.",
-    "slug": "howe-beahan-and-waelchi"
+    "slug": "howe-beahan-and-waelchi",
+    "isBig": false
   },
   {
     "name": "Simonis Inc",
@@ -247,9 +249,10 @@
       "Wanda Bayer"
     ],
     "genre": "Rock",
-    "logo": "https://source.unsplash.com/random/720x480?random=58766",
+    "logo": "https://source.unsplash.com/random/",
     "bio": "Explicabo minus dicta aut est et rerum accusamus. Voluptatem magni earum. Earum doloremque eum. Cumque eos at dolorum amet consequatur est. Aspernatur qui ad commodi inventore. Sed magnam laboriosam rerum est.\n \rHic ab veniam ad est ut natus deleniti. Possimus voluptate cum odit corrupti pariatur. Earum et aut dolores id. Voluptatibus laboriosam modi placeat rerum nostrum fugit. Sit natus est. Sit vitae voluptate.\n \rTotam cum cum quisquam atque. Culpa aliquid inventore. Et est similique distinctio sit dolor. Voluptas molestias nulla rerum maiores adipisci alias aliquam quo et.",
-    "slug": "simonis-inc"
+    "slug": "simonis-inc",
+    "isBig": false
   },
   {
     "name": "Zboncak - Haag",
@@ -261,41 +264,46 @@
       "Hank Torphy"
     ],
     "genre": "Folk",
-    "logo": "https://source.unsplash.com/random/720x480?random=17289",
+    "logo": "https://source.unsplash.com/random/",
     "bio": "Necessitatibus consectetur sed. Minus rerum ea nemo libero id quia quasi sunt. Dignissimos fuga reiciendis repudiandae modi. Consectetur ipsam dolores consequatur aut voluptate. Qui inventore facilis voluptatem qui fuga.\n \rNecessitatibus impedit debitis eaque necessitatibus omnis assumenda consequatur. Quia cum ipsam fugit. Nisi dolores perspiciatis.\n \rSapiente occaecati voluptatibus consectetur inventore eum qui harum quia officiis. Voluptas eum quia delectus repudiandae ex consequatur quisquam. Consequatur voluptatem officia dolores labore quas iusto. Consequuntur deleniti omnis illum placeat veniam quae.",
-    "slug": "zboncak-haag"
+    "slug": "zboncak-haag",
+    "isBig": false
   },
   {
     "name": "West and Sons",
     "members": ["Danial Ward", "Emery Gutkowski", "Izaiah Schowalter"],
     "genre": "Folk",
-    "logo": "https://source.unsplash.com/random/720x480?random=61846",
+    "logo": "https://source.unsplash.com/random/",
     "bio": "Sunt delectus rem et voluptas est est. Dolorum debitis nisi provident dolor. Possimus facere ut recusandae eum excepturi tempora ex quia. Excepturi voluptatem hic quia amet consequuntur esse beatae. Aut quibusdam quibusdam est iure voluptas vitae numquam. Libero tempora veniam nobis possimus illo.\n \rRepellat qui amet non et et in cumque. Et asperiores et deserunt qui. Similique rerum labore praesentium. Laudantium quo commodi aut nihil possimus est et.\n \rQui cumque dignissimos quia laudantium ducimus sit neque enim. Perspiciatis fugiat veniam facilis id qui mollitia. Molestiae laborum nihil.",
-    "slug": "west-and-sons"
+    "slug": "west-and-sons",
+    "isBig": false
   },
   {
     "name": "Champlin - O'Hara",
     "members": ["Fausto Maggio"],
     "genre": "Rock",
-    "logo": "https://source.unsplash.com/random/720x480?random=50393",
+    "logo": "https://source.unsplash.com/random/",
     "bio": "Sunt ad consequatur qui perspiciatis atque. Vel quasi praesentium et atque omnis dolor. Non eveniet dolore architecto qui. Vel velit iusto cum maiores pariatur eos porro omnis sint. Dolorem asperiores ducimus hic ea.\n \rUt fugit sunt quae nihil iusto quidem et. Quo et ipsam hic. Quia temporibus error sit voluptas nihil incidunt. Sit illum et ipsum non omnis accusamus fuga. Tempora et dolores possimus nihil debitis et unde ut rem.\n \rQuae aut sed natus quas. Temporibus deleniti earum tempora est ea deserunt. Atque ipsam ipsam. Qui quos iure dolor. Quaerat consequatur id placeat dolorum corporis sunt eos quis. Et ullam nisi repellat aut eligendi porro qui officiis.",
-    "slug": "champlin-ohara"
+    "slug": "champlin-ohara",
+    "isBig": false
   },
   {
     "name": "Barrows Group",
     "members": ["Barney Nienow", "Jarod Renner", "Unique Russel"],
     "genre": "Metal",
-    "logo": "https://source.unsplash.com/random/720x480?random=70562",
+    "logo": "https://source.unsplash.com/random/",
     "bio": "Quae rerum est. Aut aut modi sapiente adipisci est aut dolorum. Ut et quod asperiores et. Quia consequatur magni animi consequatur omnis adipisci aut consequatur. Et ut fugit et aut rem consequatur optio qui occaecati. Voluptatem praesentium consequuntur a placeat nam qui illo.\n \rUt qui aliquam perferendis quibusdam alias porro similique et id. Deserunt repudiandae id. Voluptatem dolor adipisci ab minima ducimus. Eligendi doloribus sit qui et numquam rerum.\n \rHic eum minima cumque modi dolorem. Non ut eum maiores ut tempora non et harum. Omnis itaque magni ut qui reprehenderit. Aut magnam velit expedita doloremque at ut consequuntur. Veritatis eaque accusantium. Et delectus est est.",
-    "slug": "barrows-group"
+    "slug": "barrows-group",
+    "isBig": false
   },
   {
     "name": "Conn Group",
     "members": ["Wilson Rosenbaum", "Marie Schiller", "Wellington Tromp"],
     "genre": "Stage And Screen",
-    "logo": "https://source.unsplash.com/random/720x480?random=34978",
+    "logo": "https://source.unsplash.com/random/",
     "bio": "Vel voluptatem ea ut id voluptatum nulla vel. Deserunt aperiam eveniet. Illum et modi ullam magnam mollitia et facere quo totam.\n \rProvident ullam quas deleniti possimus molestias. Atque ut in vel ut neque nihil maxime perferendis. Enim qui harum. Quo numquam animi velit.\n \rExcepturi perspiciatis sint voluptates illum quia. Asperiores porro itaque veniam voluptatem. Et sequi illo sed magni eum voluptatibus quaerat. Maiores voluptatem quod omnis veniam ad quod maiores veniam odit. Aperiam ad temporibus aut quidem voluptatem quibusdam.",
-    "slug": "conn-group"
+    "slug": "conn-group",
+    "isBig": false
   },
   {
     "name": "Romaguera - Toy",
@@ -306,25 +314,28 @@
       "Gerard Herzog"
     ],
     "genre": "Non Music",
-    "logo": "https://source.unsplash.com/random/720x480?random=2706",
+    "logo": "https://source.unsplash.com/random/",
     "bio": "Sit sit modi sit veritatis minus eos. Qui sint aut. Placeat nemo blanditiis quia. Repellat id qui. At adipisci rerum hic. Nobis corporis quia laborum.\n \rEst minus molestiae error non soluta hic iure culpa dicta. Est tenetur id libero excepturi reiciendis numquam facere voluptatem non. Dolorem occaecati sit aut quibusdam dolores a sit quo.\n \rMaiores odit voluptates id atque itaque veniam nostrum. Ipsum sit molestiae voluptate. Animi enim dolor dolor quo sit. Magni delectus consectetur esse numquam expedita omnis ut sit.",
-    "slug": "romaguera-toy"
+    "slug": "romaguera-toy",
+    "isBig": false
   },
   {
     "name": "Luettgen Inc",
     "members": ["Jamey Marvin", "Francisco Olson"],
     "genre": "Metal",
-    "logo": "https://source.unsplash.com/random/720x480?random=48252",
+    "logo": "https://source.unsplash.com/random/",
     "bio": "Eum aut incidunt eos nisi mollitia alias voluptatem voluptas et. Deserunt ex perferendis nisi officia id. Omnis quia sed iste sapiente eos iste quia. Minus modi facilis molestias odit ut reiciendis. Laudantium unde dolorum ut quia soluta voluptas. Tenetur rem inventore et ut necessitatibus.\n \rSed iste explicabo repudiandae dolorem consequatur dolorem amet doloribus. Minima fuga voluptas quo. Aut quo ducimus. Similique soluta aut distinctio natus corporis ut dolor.\n \rCorrupti voluptatum voluptatem nobis. Sed sint ratione quia ut velit impedit. Est repellendus harum veritatis aut omnis aliquid doloribus. Voluptatem voluptas exercitationem voluptas velit quae magni. Assumenda amet nam est.",
-    "slug": "luettgen-inc"
+    "slug": "luettgen-inc",
+    "isBig": false
   },
   {
     "name": "Ritchie - Lind",
     "members": ["Florida Toy", "Marlee Ziemann", "Kyla Douglas"],
     "genre": "Metal",
-    "logo": "https://source.unsplash.com/random/720x480?random=42610",
+    "logo": "https://source.unsplash.com/random/",
     "bio": "Sed numquam vel magnam ea voluptatibus in sapiente. Et ullam illum molestiae sit sunt et. Est rem rerum et commodi eum. Voluptatem quaerat quod sapiente. Quis aliquid itaque dolores dolorum odio.\n \rAperiam mollitia asperiores rerum. Impedit quisquam ut. Expedita rerum quo. Qui aut dolor aliquam.\n \rConsectetur voluptas culpa vel maxime neque id sequi culpa. Molestias sunt esse labore eligendi sequi eius nisi maiores. Quibusdam alias consectetur ut autem reiciendis sit inventore autem. Error minus consequatur dignissimos vitae ut ut ducimus fugiat. Sapiente ea beatae. Ratione distinctio quod dicta magnam omnis sit dolores quia animi.",
-    "slug": "ritchie-lind"
+    "slug": "ritchie-lind",
+    "isBig": false
   },
   {
     "name": "Emard - Dooley",
@@ -335,200 +346,584 @@
       "Gregorio Hilpert"
     ],
     "genre": "Rock",
-    "logo": "https://source.unsplash.com/random/720x480?random=74844",
+    "logo": "https://source.unsplash.com/random/",
     "bio": "Provident quidem est harum saepe nobis voluptatem. Qui voluptates delectus perspiciatis necessitatibus eos quo ut asperiores. Animi vitae suscipit cum sunt quasi officiis. Repudiandae sed maxime sint quam iste.\n \rEsse optio culpa quia adipisci quia ipsam tempore repellat. Harum velit assumenda et nemo nisi. Sed hic sint hic quibusdam sed non impedit. Error autem et excepturi et fugit rerum et. Nostrum tenetur quibusdam placeat doloribus necessitatibus sed corrupti deleniti.\n \rDoloribus dolore est sit quia non delectus. Optio explicabo officiis est ut ut tenetur voluptates. Nulla ipsam rerum recusandae blanditiis necessitatibus et quibusdam eum excepturi. Quo voluptatibus voluptatibus explicabo delectus odio ex autem.",
-    "slug": "emard-dooley"
+    "slug": "emard-dooley",
+    "isBig": false
   },
   {
     "name": "Steuber, Skiles and Wyman",
     "members": ["Kelli Medhurst"],
     "genre": "Metal",
-    "logo": "https://source.unsplash.com/random/720x480?random=68795",
+    "logo": "https://source.unsplash.com/random/",
     "bio": "Dolores iste eos est ex enim. Temporibus molestias soluta nam nesciunt fugit sunt. Nesciunt modi numquam totam ut eligendi veritatis velit rerum. Itaque sed est non quidem asperiores temporibus ipsum eligendi.\n \rNumquam laudantium reprehenderit enim qui totam laudantium ad voluptatem. Aliquam quia illum fuga tempore. Culpa autem vitae in in dicta. Autem commodi inventore dolorem aliquid accusantium et repellat. Excepturi harum sit alias et.\n \rVoluptatibus ducimus ipsum modi qui voluptate facere. Qui ut veniam cupiditate facilis cumque cum dolores. Explicabo quo sunt voluptas vel illum. Doloremque consequatur sit ut quam laboriosam omnis amet. In velit consectetur quis omnis illum vitae amet ut dolorum.",
-    "slug": "steuber-skiles-and-wyman"
+    "slug": "steuber-skiles-and-wyman",
+    "isBig": false
   },
   {
     "name": "Dooley LLC",
     "members": ["Lorenz Hettinger"],
     "genre": "Rock",
-    "logo": "https://source.unsplash.com/random/720x480?random=57682",
+    "logo": "https://source.unsplash.com/random/",
     "bio": "Dolorem non earum ipsa. Non vitae est veniam dolorem est. Rem tempora odit voluptatibus dolor assumenda voluptatem reprehenderit. Culpa ea qui est vero quaerat laudantium.\n \rAssumenda cumque qui explicabo est dolor distinctio non. Inventore velit delectus totam. Et voluptate et exercitationem aliquam.\n \rSequi harum delectus nam. Rem ducimus pariatur laboriosam sint. Et amet ea sed sed.",
-    "slug": "dooley-llc"
+    "slug": "dooley-llc",
+    "isBig": false
   },
   {
     "name": "McLaughlin LLC",
     "members": ["Sonny Zemlak", "Icie Thompson", "Luisa Ward"],
     "genre": "Stage And Screen",
-    "logo": "https://source.unsplash.com/random/720x480?random=49427",
+    "logo": "https://source.unsplash.com/random/",
     "bio": "Inventore occaecati repellat quaerat odit molestiae rem et maxime non. Blanditiis animi at vero labore quibusdam. Ipsum in assumenda sint est est sunt aut et.\n \rMolestiae quia nulla qui dignissimos. Quam voluptatem labore consequatur. Et rerum temporibus qui suscipit harum quia. Saepe dolorem velit a laudantium laborum. Facere enim eos ea commodi rerum in voluptas magnam est.\n \rIpsum iste sint sapiente eos ducimus accusamus dicta. Sit consectetur hic repudiandae maiores. Aut consectetur aut autem vero. Suscipit ab illum incidunt et qui maxime. Nulla illum commodi corporis vel inventore modi qui.",
-    "slug": "mclaughlin-llc"
+    "slug": "mclaughlin-llc",
+    "isBig": false
   },
   {
     "name": "Nitzsche, Harvey and Harvey",
     "members": ["Serena Turcotte", "Daniela Mayert", "Dejah Langworth"],
     "genre": "Rock",
-    "logo": "https://source.unsplash.com/random/720x480?random=25067",
+    "logo": "https://source.unsplash.com/random/",
     "bio": "Ex placeat est facere consequatur sit molestias. Similique sit deleniti ut quisquam vel ut est non. Temporibus corrupti repudiandae laboriosam voluptatibus non quisquam perferendis animi.\n \rEligendi nobis nisi asperiores tenetur incidunt totam qui a. Sequi qui illo consequatur. Doloremque maxime nulla provident ratione temporibus dolorem hic. Ab non deserunt. Reprehenderit est numquam vel.\n \rSint accusantium aperiam at quo id dolore magni ratione et. Occaecati hic nihil sint quas soluta voluptatum at quam non. Sapiente voluptas laudantium similique labore in. Quibusdam maiores voluptatibus nihil eos.",
-    "slug": "nitzsche-harvey-and-harvey"
+    "slug": "nitzsche-harvey-and-harvey",
+    "isBig": false
   },
   {
     "name": "Fay, Upton and Nienow",
     "members": ["Larry Hane", "Reva Kessler"],
     "genre": "Rock",
-    "logo": "https://source.unsplash.com/random/720x480?random=50349",
+    "logo": "https://source.unsplash.com/random/",
     "bio": "Dolore sed architecto. Suscipit aspernatur ea. Est nam quis culpa in ea et. Laudantium vel corrupti blanditiis aliquid et. Omnis vero officiis nostrum sed nam minus.\n \rSaepe quam aut quos est porro recusandae dolores suscipit qui. Soluta a consequatur quis. Reprehenderit excepturi maxime blanditiis enim ipsum autem unde tenetur.\n \rFugit quia reiciendis pariatur nisi est. Deleniti ullam corporis ipsa hic maiores earum et. Quis molestiae dolor. Voluptatibus numquam odit neque qui vitae dignissimos nemo repudiandae et.",
-    "slug": "fay-upton-and-nienow"
+    "slug": "fay-upton-and-nienow",
+    "isBig": false
   },
   {
     "name": "Eternal Void",
     "members": ["Alex Smith", "Jessica Brown", "Michael Johnson", "Emily Davis"],
     "genre": "Progressive Metal",
-    "logo": "https://source.unsplash.com/random/720x480?random=12847",
+    "logo": "https://source.unsplash.com/random/",
     "bio": "Eternal Void crafts intricate melodies and complex rhythms, inviting listeners to explore the depths of the unknown through their Progressive Metal compositions.",
-    "slug": "eternal-void"
+    "slug": "eternal-void",
+    "isBig": false
   },
   {
     "name": "Forgotten Symphony",
     "members": ["David Wilson", "Sarah Thompson", "Matthew Martinez", "Jennifer White"],
     "genre": "Symphonic Metal",
-    "logo": "https://source.unsplash.com/random/720x480?random=27356",
+    "logo": "https://source.unsplash.com/random/",
     "bio": "Forgotten Symphony blends orchestral grandeur with metal intensity, creating a symphonic journey that resonates with both heart and soul.",
-    "slug": "forgotten-symphony"
+    "slug": "forgotten-symphony",
+    "isBig": false
   },
   {
     "name": "Thundering Hearts",
     "members": ["Christopher Lee", "Amanda Clark", "Daniel Turner", "Olivia King"],
     "genre": "Power Metal",
-    "logo": "https://source.unsplash.com/random/720x480?random=5098",
+    "logo": "https://source.unsplash.com/random/",
     "bio": "Thundering Hearts ignites the spirit with anthemic choruses and electrifying solos, capturing the essence of heroism in their Power Metal epics.",
-    "slug": "thundering-hearts"
+    "slug": "thundering-hearts",
+    "isBig": false
   },
   {
     "name": "Silent Echoes",
     "members": ["Ryan Moore", "Lauren Rodriguez", "Joshua Walker", "Sophia Carter"],
     "genre": "Gothic Metal",
-    "logo": "https://source.unsplash.com/random/720x480?random=19765",
+    "logo": "https://source.unsplash.com/random/",
     "bio": "In the shadows of sorrow, Silent Echoes whispers tales of longing and despair, weaving a tapestry of melancholy through their Gothic Metal melodies.",
-    "slug": "silent-echoes"
+    "slug": "silent-echoes",
+    "isBig": false
   },
   {
     "name": "Iron Will",
     "members": ["William Johnson", "Emma Thompson", "Jacob Davis", "Madison Anderson"],
     "genre": "Heavy Metal",
-    "logo": "https://source.unsplash.com/random/720x480?random=33312",
+    "logo": "https://source.unsplash.com/random/",
     "bio": "Iron Will stands as a bastion of unyielding strength, forging a path of defiance and determination through the thunderous riffs of Heavy Metal.",
-    "slug": "iron-will"
+    "slug": "iron-will",
+    "isBig": false
   },
   {
     "name": "Lunar Lament",
     "members": ["John Harris", "Ashley Martin", "Kevin Clark", "Megan Allen"],
     "genre": "Atmospheric Black Metal",
-    "logo": "https://source.unsplash.com/random/720x480?random=41987",
+    "logo": "https://source.unsplash.com/random/",
     "bio": "Under the pale glow of the moon, Lunar Lament conjures ethereal melodies and haunting atmospheres, exploring the mysteries of the cosmos through their music.",
-    "slug": "lunar-lament"
+    "slug": "lunar-lament",
+    "isBig": false
   },
   {
     "name": "Rising Phoenix",
     "members": ["Brandon Garcia", "Rachel Baker", "Nathan Hill", "Kayla Nelson"],
     "genre": "Melodic Metalcore",
-    "logo": "https://source.unsplash.com/random/720x480?random=22543",
+    "logo": "https://source.unsplash.com/random/",
     "bio": "Like a phoenix from the ashes, Rising Phoenix soars with melodic ferocity, blending aggression and emotion into a powerful expression of Metalcore.",
-    "slug": "rising-phoenix"
+    "slug": "rising-phoenix",
+    "isBig": false
   },
   {
     "name": "Crimson Skyline",
     "members": ["Tyler Martinez", "Lily Turner", "Andrew Clark", "Chloe White"],
     "genre": "Alternative Metal",
-    "logo": "https://source.unsplash.com/random/720x480?random=18769",
+    "logo": "https://source.unsplash.com/random/",
     "bio": "Against the backdrop of a crimson sky, Crimson Skyline paints sonic landscapes that defy convention, embracing the diversity of Alternative Metal.",
-    "slug": "crimson-skyline"
+    "slug": "crimson-skyline",
+    "isBig": false
   },
   {
     "name": "Endless Horizon",
     "members": ["Ethan Johnson", "Grace Thompson", "Noah Davis", "Isabella Wilson"],
     "genre": "Progressive Power Metal",
-    "logo": "https://source.unsplash.com/random/720x480?random=5423",
+    "logo": "https://source.unsplash.com/random/",
     "bio": "Endless Horizon navigates the vast expanse of sound with technical prowess and boundless creativity, pushing the boundaries of Progressive Power Metal.",
-    "slug": "endless-horizon"
+    "slug": "endless-horizon",
+    "isBig": false
   },
   {
     "name": "Echoing Embrace",
     "members": ["Logan Harris", "Sophia Martinez", "Ryan Turner", "Hannah Clark"],
     "genre": "Symphonic Gothic Metal",
-    "logo": "https://source.unsplash.com/random/720x480?random=38015",
+    "logo": "https://source.unsplash.com/random/",
     "bio": "In the embrace of darkness, Echoing Embrace weaves tales of love and loss, blending symphonic grandeur with the melancholic beauty of Gothic Metal.",
-    "slug": "echoing-embrace"
+    "slug": "echoing-embrace",
+    "isBig": false
   },
   {
     "name": "Raging Rampage",
     "members": ["Furious Fury", "Rampant Ravager", "Storming Sentinel", "Berserker Bard"],
     "genre": "Battle Metal",
-    "logo": "https://source.unsplash.com/random/720x480?random=30567",
+    "logo": "https://source.unsplash.com/random/",
     "bio": "Amidst the chaos of the battlefield, Raging Rampage charges forth with relentless fury, wielding their instruments as weapons of sonic destruction.",
-    "slug": "raging-rampage"
+    "slug": "raging-rampage",
+    "isBig": false
   },
   {
     "name": "Aurora Borealis",
     "members": ["Michael Johnson", "Emily Davis", "Christopher Lee", "Amanda Clark"],
     "genre": "Folk Metal",
-    "logo": "https://source.unsplash.com/random/720x480?random=27394",
+    "logo": "https://source.unsplash.com/random/",
     "bio": "Aurora Borealis paints vivid tales of northern folklore, blending traditional melodies with the power of Metal, capturing the essence of the mystical Northern Lights.",
-    "slug": "aurora-borealis"
+    "slug": "aurora-borealis",
+    "isBig": false
   },
   {
     "name": "Whispers of Winter",
     "members": ["Daniel Turner", "Olivia King", "Lauren Rodriguez", "Joshua Walker"],
     "genre": "Symphonic Black Metal",
-    "logo": "https://source.unsplash.com/random/720x480?random=16204",
+    "logo": "https://source.unsplash.com/random/",
     "bio": "In the icy embrace of winter, Whispers of Winter echoes the bleak beauty of the season, crafting haunting melodies that evoke the solitude of snow-covered landscapes.",
-    "slug": "whispers-winter"
+    "slug": "whispers-winter",
+    "isBig": false
   },
   {
     "name": "Soulforge",
     "members": ["Sophia Carter", "Jacob Davis", "Madison Anderson", "William Johnson"],
     "genre": "Epic Metal",
-    "logo": "https://source.unsplash.com/random/720x480?random=39761",
+    "logo": "https://source.unsplash.com/random/",
     "bio": "Forged in the fires of passion and tempered by trials, Soulforge embarks on epic quests through their music, weaving tales of valor and heroism.",
-    "slug": "soulforge"
+    "slug": "soulforge",
+    "isBig": false
   },
   {
     "name": "Obsidian Overture",
     "members": ["Megan Allen", "Brandon Garcia", "Rachel Baker", "Nathan Hill"],
     "genre": "Progressive Black Metal",
-    "logo": "https://source.unsplash.com/random/720x480?random=4973",
+    "logo": "https://source.unsplash.com/random/",
     "bio": "Obsidian Overture delves into the depths of darkness, pushing the boundaries of musical experimentation with their Progressive Black Metal symphonies.",
-    "slug": "obsidian-overture"
+    "slug": "obsidian-overture",
+    "isBig": false
   },
   {
     "name": "Ethereal Enigma",
     "members": ["Kayla Nelson", "Tyler Martinez", "Chloe White", "Andrew Clark"],
     "genre": "Gothic Symphonic Metal",
-    "logo": "https://source.unsplash.com/random/720x480?random=28194",
+    "logo": "https://source.unsplash.com/random/",
     "bio": "Ethereal Enigma casts a spell of enchantment, intertwining Gothic aesthetics with symphonic grandeur, inviting listeners into a world of mystery and magic.",
-    "slug": "ethereal-enigma"
+    "slug": "ethereal-enigma",
+    "isBig": false
   },
   {
     "name": "Solar Flare",
     "members": ["Isabella Wilson", "Logan Harris", "Sophia Martinez", "Ryan Turner"],
     "genre": "Solar Metal",
-    "logo": "https://source.unsplash.com/random/720x480?random=5982",
+    "logo": "https://source.unsplash.com/random/",
     "bio": "Harnessing the fiery energy of the sun, Solar Flare radiates with blistering riffs and scorching solos, channeling the power of the cosmos into their music.",
-    "slug": "solar-flare"
+    "slug": "solar-flare",
+    "isBig": false
   },
   {
     "name": "Echoes of Elysium",
     "members": ["Hannah Clark", "Michael Johnson", "Emily Davis", "Christopher Lee"],
     "genre": "Neoclassical Metal",
-    "logo": "https://source.unsplash.com/random/720x480?random=31847",
+    "logo": "https://source.unsplash.com/random/",
     "bio": "Echoes of Elysium evokes visions of paradise lost, blending classical elegance with the raw energy of Metal, creating a sonic tapestry of ethereal beauty.",
-    "slug": "echoes-elysium"
+    "slug": "echoes-elysium",
+    "isBig": false
   },
   {
     "name": "Tempest's Fury",
     "members": ["Amanda Clark", "Daniel Turner", "Olivia King", "Lauren Rodriguez"],
     "genre": "Storm Metal",
-    "logo": "https://source.unsplash.com/random/720x480?random=13695",
+    "logo": "https://source.unsplash.com/random/",
     "bio": "Raging like a tempest unleashed, Tempest's Fury roars with thunderous intensity, invoking the fury",
-    "slug": "tempest-fury"
+    "slug": "tempest-fury",
+    "isBig": false
+  },
+  {
+    "name": "Ethereal Enchantment",
+    "members": ["James Smith", "Emma Johnson", "Andrew Wilson", "Sophia Brown"],
+    "genre": "Fantasy Metal",
+    "logo": "https://source.unsplash.com/random/",
+    "bio": "Ethereal Enchantment weaves tales of magic and wonder, conjuring epic adventures through their enchanting melodies and mythical lyrics.",
+    "slug": "ethereal-enchantment"
+  },
+  {
+    "name": "Thunderstorm Symphony",
+    "members": ["Ryan Taylor", "Sarah Moore", "David Thompson", "Rachel Adams"],
+    "genre": "Orchestral Metal",
+    "logo": "https://source.unsplash.com/random/",
+    "bio": "Thunderstorm Symphony unleashes a tempest of sound, blending orchestral majesty with the raw power of Metal, painting vivid sonic landscapes of stormy passion.",
+    "slug": "thunderstorm-symphony"
+  },
+  {
+    "name": "Ancient Legends",
+    "members": ["Daniel Carter", "Olivia Walker", "Matthew Hall", "Emily King"],
+    "genre": "Mythical Metal",
+    "logo": "https://source.unsplash.com/",
+    "bio": "Ancient Legends resurrects forgotten myths and legends, channeling the spirits of old through their thunderous riffs and epic sagas.",
+    "slug": "ancient-legends"
+  },
+  {
+    "name": "Twilight Tales",
+    "members": ["Mason Green", "Ava Martinez", "Liam White", "Sophie Anderson"],
+    "genre": "Gothic Fantasy Metal",
+    "logo": "https://source.unsplash.com/random/",
+    "bio": "Twilight Tales dances on the edge of darkness, spinning haunting melodies and gothic tales that delve into the depths of the human psyche.",
+    "slug": "twilight-tales"
+  },
+  {
+    "name": "Mystic Melodies",
+    "members": ["Ethan Adams", "Emma Hill", "Jacob Mitchell", "Chloe Roberts"],
+    "genre": "Enigmatic Metal",
+    "logo": "https://source.unsplash.com/random/",
+    "bio": "Mystic Melodies casts a spell of mystery and intrigue, enchanting listeners with their enigmatic blend of melody and mayhem.",
+    "slug": "mystic-melodies"
+  },
+  {
+    "name": "Whispering Winds",
+    "members": ["Noah Harris", "Sophia Clark", "Logan Brown", "Alyssa Wilson"],
+    "genre": "Atmospheric Metal",
+    "logo": "https://source.unsplash.com/random/",
+    "bio": "Whispering Winds carries listeners on a journey through ethereal realms, where swirling atmospheres and celestial melodies converge in a symphony of the cosmos.",
+    "slug": "whispering-winds"
+  },
+  {
+    "name": "Duskfall Serenade",
+    "members": ["Lucas Thompson", "Hannah Moore", "Caleb Johnson", "Madison Baker"],
+    "genre": "Twilight Metal",
+    "logo": "https://source.unsplash.com/random/",
+    "bio": "As the day fades into night, Duskfall Serenade serenades the twilight hours with their melancholic melodies and haunting harmonies.",
+    "slug": "duskfall-serenade"
+  },
+  {
+    "name": "Celestial Hymn",
+    "members": ["Elijah White", "Amelia Davis", "Benjamin Green", "Natalie Taylor"],
+    "genre": "Heavenly Metal",
+    "logo": "https://source.unsplash.com/random/",
+    "bio": "Celestial Hymn resonates with divine energy, uplifting souls with celestial melodies that transcend the earthly realm.",
+    "slug": "celestial-hymn"
+  },
+  {
+    "name": "Vortex Visions",
+    "members": ["Owen White", "Isabella Thompson", "Ethan Martinez", "Haley Clark"],
+    "genre": "Whirlwind Metal",
+    "logo": "https://source.unsplash.com/random/",
+    "bio": "Vortex Visions whirls and twists with cyclonic force, engulfing listeners in a maelstrom of sound that defies gravity and bends reality.",
+    "slug": "vortex-visions"
+  },
+  {
+    "name": "Mystic Mirage",
+    "members": ["Evan Harris", "Leah Martinez", "Connor Clark", "Avery Johnson"],
+    "genre": "Mirage Metal",
+    "logo": "https://source.unsplash.com/random/",
+    "bio": "Mystic Mirage shimmers and shapeshifts with ethereal grace, conjuring mirages of sound that mesmerize and mystify the senses.",
+    "slug": "mystic-mirage"
+  },
+  {
+    "name": "Eclipse Ensemble",
+    "members": ["Eli Thompson", "Sophie White", "Jack Clark", "Lily Martinez"],
+    "genre": "Celestial Metal",
+    "logo": "https://source.unsplash.com/random/",
+    "bio": "Eclipse Ensemble eclipses the mundane with celestial splendor, crafting cosmic compositions that transcend time and space.",
+    "slug": "eclipse-ensemble"
+  },
+  {
+    "name": "Aurora Allegiance",
+    "members": ["Aaron White", "Emily Martinez", "Landon Clark", "Bella Thompson"],
+    "genre": "Northern Metal",
+    "logo": "https://source.unsplash.com/random/",
+    "bio": "Aurora Allegiance pledges loyalty to the northern lights, weaving melodies as vibrant and captivating as the aurora borealis itself.",
+    "slug": "aurora-allegiance"
+  },
+  {
+    "name": "Solstice Symphony",
+    "members": ["Cameron Clark", "Grace Thompson", "Lucas Martinez", "Ava White"],
+    "genre": "Seasonal Metal",
+    "logo": "https://source.unsplash.com/random/",
+    "bio": "Solstice Symphony celebrates the changing seasons with melodic fervor, capturing the essence of nature's cycles in their harmonious compositions.",
+    "slug": "solstice-symphony"
+  },
+  {
+    "name": "Echoes of Eden",
+    "members": ["Logan Thompson", "Mia White", "Ethan Martinez", "Alyssa Clark"],
+    "genre": "Garden Metal",
+    "logo": "https://source.unsplash.com/random/",
+    "bio": "Echoes of Eden blooms with sonic splendor, cultivating lush melodies that transport listeners to a paradise of musical tranquility.",
+    "slug": "echoes-eden"
+  },
+  {
+    "name": "Eternal Eclipse",
+    "members": ["Alexandra Blackwood", "Jacob Steele", "Sophia Ramirez", "Ethan Knight"],
+    "genre": "Symphonic Death Metal",
+    "logo": "https://source.unsplash.com/random/",
+    "bio": "Eternal Eclipse merges the grandeur of symphonic elements with the brutality of death metal, crafting a dark and epic sonic journey that transcends mortal realms.",
+    "slug": "eternal-eclipse"
+  },
+  {
+    "name": "Abyssal Fury",
+    "members": ["Lucas Anderson", "Emily Carter", "Maximilian Shaw", "Victoria Lee"],
+    "genre": "Blackened Thrash Metal",
+    "logo": "https://source.unsplash.com/random/",
+    "bio": "Abyssal Fury unleashes a relentless storm of blackened thrash metal, channeling darkness and fury to create a sonic assault that leaves audiences in awe.",
+    "slug": "abyssal-fury"
+  },
+  {
+    "name": "Ethereal Chaos",
+    "members": ["Aiden Mitchell", "Isabella Wong", "Gabriel Martinez", "Olivia Phillips"],
+    "genre": "Progressive Death Metal",
+    "logo": "https://source.unsplash.com/random/",
+    "bio": "Ethereal Chaos delves into the depths of progressive death metal, weaving intricate melodies with crushing rhythms to explore the boundaries of musical chaos.",
+    "slug": "ethereal-chaos"
+  },
+  {
+    "name": "Soul Reaver",
+    "members": ["Dylan Reynolds", "Hannah White", "Evan Thompson", "Ava Turner"],
+    "genre": "Gothic Doom Metal",
+    "logo": "https://source.unsplash.com/random/",
+    "bio": "Soul Reaver summons the haunting atmosphere of gothic doom metal, crafting mournful melodies and thunderous riffs that echo through the corridors of eternity.",
+    "slug": "soul-reaver"
+  },
+  {
+    "name": "Voidwalker",
+    "members": ["Mason Clark", "Samantha Johnson", "Liam Brown", "Natalie Green"],
+    "genre": "Progressive Metalcore",
+    "logo": "https://source.unsplash.com/random/",
+    "bio": "Voidwalker explores the vast expanse of progressive metalcore, blending technical prowess with emotional depth to traverse the realms of sonic possibility.",
+    "slug": "voidwalker"
+  },
+  {
+    "name": "Infernal Dominion",
+    "members": ["Jason Smith", "Emma Roberts", "Caleb Wilson", "Madison Taylor"],
+    "genre": "Symphonic Black Metal",
+    "logo": "https://source.unsplash.com/",
+    "bio": "Infernal Dominion conjures dark symphonic landscapes with ferocious black metal fury, plunging listeners into the depths of infernal dominion.",
+    "slug": "infernal-dominion"
+  },
+  {
+    "name": "Neon Nightmare",
+    "members": ["Tyler Evans", "Chloe Harris", "Nathan Parker", "Lily Campbell"],
+    "genre": "Cyber Metal",
+    "logo": "https://source.unsplash.com/random/",
+    "bio": "Neon Nightmare merges the neon-lit dystopian future with the aggression of metal, creating a cybernetic cacophony that blurs the lines between man and machine.",
+    "slug": "neon-nightmare"
+  },
+  {
+    "name": "Mystic Eclipse",
+    "members": ["Benjamin Turner", "Sophie Martinez", "Ryan Hall", "Ella Wilson"],
+    "genre": "Atmospheric Black Metal",
+    "logo": "https://source.unsplash.com/random/",
+    "bio": "Mystic Eclipse paints ethereal landscapes with atmospheric black metal, weaving intricate melodies and cascading rhythms that transport listeners to otherworldly realms.",
+    "slug": "mystic-eclipse"
+  },
+  {
+    "name": "Doombringer",
+    "members": ["Joshua Adams", "Grace Jackson", "Elijah Walker", "Avery Hall"],
+    "genre": "Stoner Doom Metal",
+    "logo": "https://source.unsplash.com/random/",
+    "bio": "Doombringer delivers the crushing weight of stoner doom metal, invoking apocalyptic visions with thunderous riffs and hypnotic grooves that envelop the soul.",
+    "slug": "doombringer"
+  },
+  {
+    "name": "Spectral Sorrow",
+    "members": ["Cameron Foster", "Maya Phillips", "Owen Turner", "Amelia Young"],
+    "genre": "Melodic Death Metal",
+    "logo": "https://source.unsplash.com/random/",
+    "bio": "Spectral Sorrow channels the anguish of existence into melodic death metal, blending sorrowful melodies with savage aggression to create a haunting sonic experience.",
+    "slug": "spectral-sorrow"
+  },
+  {
+    "name": "Lunar Eclipse",
+    "members": ["Lucy Roberts", "Daniel Hill", "Isabel Baker", "Noah Nelson"],
+    "genre": "Progressive Power Metal",
+    "logo": "https://source.unsplash.com/random/",
+    "bio": "Lunar Eclipse harnesses the celestial energy of progressive power metal, embarking on a cosmic journey through intricate melodies and epic anthems that illuminate the night sky.",
+    "slug": "lunar-eclipse"
+  }, {
+    "name": "Obsidian Horde",
+    "members": ["Ethan Miller", "Ava Collins", "Logan Perez", "Sophia Reed"],
+    "genre": "Deathcore",
+    "logo": "https://source.unsplash.com/random/",
+    "bio": "Obsidian Horde unleashes a relentless barrage of crushing deathcore, combining brutal breakdowns with guttural vocals to conquer the listener's senses.",
+    "slug": "obsidian-horde"
+  },
+  {
+    "name": "Celestial Ruin",
+    "members": ["Nathan Hernandez", "Luna Martinez", "Carter Phillips", "Aria Foster"],
+    "genre": "Symphonic Metal",
+    "logo": "https://source.unsplash.com/random/",
+    "bio": "Celestial Ruin weaves tales of cosmic grandeur through symphonic metal, crafting majestic melodies and soaring vocals that transcend mortal limitations.",
+    "slug": "celestial-ruin"
+  },
+  {
+    "name": "Venomous Eclipse",
+    "members": ["Oscar Turner", "Evelyn Rodriguez", "Gabriel Harris", "Mia Martinez"],
+    "genre": "Black Metal",
+    "logo": "https://source.unsplash.com/random/",
+    "bio": "Venomous Eclipse descends into the abyss with raw black metal fury, invoking primal darkness through blistering riffs and unholy incantations.",
+    "slug": "venomous-eclipse"
+  },
+  {
+    "name": "Warrior's Oath",
+    "members": ["Liam Mitchell", "Avery Carter", "Zoe Johnson", "Ethan Baker"],
+    "genre": "Power Metal",
+    "logo": "https://source.unsplash.com/random/",
+    "bio": "Warrior's Oath raises the banner of power metal high, celebrating tales of valor and glory with anthemic choruses and blazing guitar solos.",
+    "slug": "warriors-oath"
+  },
+  {
+    "name": "Chaos Engine",
+    "members": ["Isaac White", "Aurora Parker", "Dominic Young", "Ella Garcia"],
+    "genre": "Industrial Metal",
+    "logo": "https://source.unsplash.com/random/",
+    "bio": "Chaos Engine merges man and machine into a symphony of industrial metal, forging a dystopian landscape of pounding rhythms and mechanical mayhem.",
+    "slug": "chaos-engine"
+  },
+  {
+    "name": "Frozen Wasteland",
+    "members": ["Lucas Thompson", "Sophia Clark", "Landon Rodriguez", "Emma Allen"],
+    "genre": "Folk Metal",
+    "logo": "https://source.unsplash.com/random/",
+    "bio": "Frozen Wasteland journeys through icy realms with folk metal melodies, invoking the spirits of ancient warriors and mystical landscapes.",
+    "slug": "frozen-wasteland"
+  },
+  {
+    "name": "Apocalyptic Symphony",
+    "members": ["Oliver Perez", "Layla Martinez", "Nolan Scott", "Aurora Turner"],
+    "genre": "Symphonic Power Metal",
+    "logo": "https://source.unsplash.com/random/",
+    "bio": "Apocalyptic Symphony heralds the end times with symphonic power metal anthems, weaving tales of epic battles and heroic triumphs amidst the chaos of destruction.",
+    "slug": "apocalyptic-symphony"
+  },
+  {
+    "name": "Tempest Legion",
+    "members": ["Elijah Green", "Ava Roberts", "Mason Carter", "Isabella Wilson"],
+    "genre": "Thrash Metal",
+    "logo": "https://source.unsplash.com/random/",
+    "bio": "Tempest Legion charges into battle with relentless thrash metal aggression, delivering blistering riffs and lightning-fast solos that ignite mosh pits in a frenzy of chaos.",
+    "slug": "tempest-legion"
+  },
+  {
+    "name": "Necropolis",
+    "members": ["Luna Phillips", "Xavier Hernandez", "Lila Turner", "Kai Adams"],
+    "genre": "Melodic Black Metal",
+    "logo": "https://source.unsplash.com/random/",
+    "bio": "Necropolis conjures haunting melodies and infernal fury with melodic black metal, delving into the shadows to unearth the darkest depths of the human psyche.",
+    "slug": "necropolis"
+  },
+  {
+    "name": "Ragnarok",
+    "members": ["Aiden Miller", "Leah Collins", "Ethan Perez", "Ava Foster"],
+    "genre": "Viking Metal",
+    "logo": "https://source.unsplash.com/random/",
+    "bio": "Ragnarok sails the seas of Norse mythology with thunderous viking metal anthems, invoking the spirits of ancient gods and heroes in a glorious epic of battle and triumph.",
+    "slug": "ragnarok"
+  },
+  {
+    "name": "Serpentine Shadows",
+    "members": ["Noah Thompson", "Aria Johnson", "Caleb Hill", "Eva Carter"],
+    "genre": "Progressive Black Metal",
+    "logo": "https://source.unsplash.com/random/",
+    "bio": "Serpentine Shadows explores the depths of progressive black metal, weaving intricate compositions and atmospheric textures to create a mesmerizing sonic journey.",
+    "slug": "serpentine-shadows"
+  },
+  {
+    "name": "Ironclad Alliance",
+    "members": ["Ethan White", "Zoe Turner", "Nathan Garcia", "Isabella Miller"],
+    "genre": "Heavy Metal",
+    "logo": "https://source.unsplash.com/random/",
+    "bio": "Ironclad Alliance forges a bond of steel with classic heavy metal anthems, raising the banner of rebellion and freedom with powerful riffs and soaring vocals.",
+    "slug": "ironclad-alliance"
+  },
+  {
+    "name": "Eternal Descent",
+    "members": ["Elijah Turner", "Ava Hernandez", "Logan Phillips", "Isabella Foster"],
+    "genre": "Progressive Metal",
+    "logo": "https://source.unsplash.com/random/",
+    "bio": "Eternal Descent embarks on an odyssey of progressive metal exploration, pushing the boundaries of musical innovation with complex rhythms and ethereal melodies.",
+    "slug": "eternal-descent"
+  },
+  {
+    "name": "Hellfire Symphony",
+    "members": ["Lucas Turner", "Ella Hernandez", "Nathan Phillips", "Aria Foster"],
+    "genre": "Symphonic Blackened Death Metal",
+    "logo": "https://source.unsplash.com/random/",
+    "bio": "Hellfire Symphony orchestrates a cacophony of infernal chaos with symphonic blackened death metal, summoning the flames of hell to consume all in their path.",
+    "slug": "hellfire-symphony"
+  },
+  {
+    "name": "Thunderstrike",
+    "members": ["Ethan Mitchell", "Luna Turner", "Logan Garcia", "Ava Foster"],
+    "genre": "Speed Metal",
+    "logo": "https://source.unsplash.com/random/",
+    "bio": "Thunderstrike ignites the stage with blistering speed metal fury, delivering lightning-fast riffs and thunderous rhythms that leave audiences breathless in their wake.",
+    "slug": "thunderstrike"
+  },
+  {
+    "name": "Witching Hour",
+    "members": ["Lucas Turner", "Ava Hernandez", "Nathan Phillips", "Ella Foster"],
+    "genre": "Occult Metal",
+    "logo": "https://source.unsplash.com/random/",
+    "bio": "Witching Hour delves into the mysteries of the occult with dark and atmospheric metal, invoking ancient rituals and forbidden knowledge to awaken primal forces beyond human comprehension.",
+    "slug": "witching-hour"
+  },
+  {
+    "name": "Astral Ascendancy",
+    "members": ["Ethan Mitchell", "Aria Turner", "Logan Garcia", "Luna Foster"],
+    "genre": "Progressive Deathcore",
+    "logo": "https://source.unsplash.com/random/",
+    "bio": "Astral Ascendancy transcends mortal boundaries with progressive deathcore, fusing technical precision with brutal intensity to ascend to celestial heights of sonic mastery.",
+    "slug": "astral-ascendancy"
+  },
+  {
+    "name": "Savage Dominion",
+    "members": ["Lucas Turner", "Ava Hernandez", "Logan Phillips", "Ella Foster"],
+    "genre": "Groove Metal",
+    "logo": "https://source.unsplash.com/random/",
+    "bio": "Savage Dominion reigns supreme with crushing groove metal grooves, commanding audiences to headbang in unison to their primal rhythms and infectious hooks.",
+    "slug": "savage-dominion"
+  },
+  {
+    "name": "Forgotten Kingdom",
+    "members": ["Ethan Mitchell", "Luna Turner", "Logan Garcia", "Ava Foster"],
+    "genre": "Epic Doom Metal",
+    "logo": "https://source.unsplash.com/random/",
+    "bio": "Forgotten Kingdom reigns over realms of sorrow with epic doom metal anthems, weaving tales of loss and redemption amidst thunderous riffs and mournful melodies.",
+    "slug": "forgotten-kingdom"
+  },
+  {
+    "name": "Echoes of Eternity",
+    "members": ["Lucas Turner", "Ava Hernandez", "Nathan Phillips", "Ella Foster"],
+    "genre": "Progressive Symphonic Metal",
+    "logo": "https://source.unsplash.com/random/",
+    "bio": "Echoes of Eternity paints vast sonic landscapes with progressive symphonic metal, melding intricate arrangements with orchestral grandeur to create a timeless musical journey.",
+    "slug": "echoes-of-eternity"
   }
 ]
