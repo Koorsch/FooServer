@@ -1,6 +1,8 @@
+// src/Booking.js
 var uniqid = require("uniqid");
 const { observer } = require("./util/observer");
 const { rndBetween } = require("./util/rnd");
+
 class Booking {
   constructor(fest) {
     this.fest = fest;
@@ -25,13 +27,13 @@ class Booking {
         direction: -1,
       }
     ];
-    //sell out random area
     const areaIndex = rndBetween(0, this.areas.length - 1);
     this.areas[areaIndex].available = 0;
     this.areas[areaIndex].direction = 1;
     this.tick.bind(this);
     observer.subscribe("TICK", () => this.tick());
   }
+
   getData() {
     return this.areas.map((oneArea) => ({
       area: oneArea.area,
@@ -39,6 +41,7 @@ class Booking {
       available: oneArea.available,
     }));
   }
+
   reserveSpot(area, amount) {
     let cleanAmount = Number(amount);
     const thisArea = this.areas.filter((a) => a.area === area)[0];
@@ -46,21 +49,21 @@ class Booking {
       thisArea.available -= cleanAmount;
       const timeoutId = setTimeout(() => {
         thisArea.available += cleanAmount;
-        clearTimeout(timeoutId);
-      }, this.fest.reservationDuration);
+        this.timeoutIds = this.timeoutIds.filter(t => t.id !== timeoutId);
+      }, 5 * 60 * 1000); // 5 minutes
 
       const id = uniqid();
       this.timeoutIds.push({
         clearCallback: timeoutId,
         id: id,
         area: thisArea,
-        expires: Date.now() + this.fest.reservationDuration,
+        expires: Date.now() + 5 * 60 * 1000,
         cleanAmount,
       });
       return {
         message: "Reserved",
         id,
-        timeout: this.fest.reservationDuration,
+        timeout: 5 * 60 * 1000,
       };
     } else {
       return {
@@ -74,10 +77,7 @@ class Booking {
     const obj = this.timeoutIds.find((e) => e.id === id);
     if (obj !== undefined && obj.expires > Date.now()) {
       clearTimeout(obj.clearCallback);
-      this.timeoutIds.splice(
-        this.timeoutIds.findIndex((e) => e.id === id),
-        1
-      );
+      this.timeoutIds = this.timeoutIds.filter(t => t.id !== obj.clearCallback);
       return { message: "Reservation completed" };
     } else {
       return {
@@ -86,6 +86,19 @@ class Booking {
       };
     }
   }
+
+  cleanExpiredReservations() {
+    const now = Date.now();
+    this.timeoutIds = this.timeoutIds.filter((reservation) => {
+      if (reservation.expires <= now) {
+        reservation.area.available += reservation.cleanAmount;
+        return false;
+      }
+      return true;
+    });
+    return { message: 'Expired reservations cleaned' };
+  }
+
   tick() {
     if (Math.random() * 100 < this.fest.eventChance) {
       const areaIndex = rndBetween(0, this.areas.length - 1);
@@ -99,4 +112,5 @@ class Booking {
     }
   }
 }
+
 module.exports = { Booking };

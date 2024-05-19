@@ -1,7 +1,4 @@
-//====================
-const version = "0.0.2";
-//====================
-
+// src/foofest.js
 const { Schedule } = require("./Schedule.js");
 const { Festival } = require("./Festival.js");
 const { EventLog } = require("./EventLog");
@@ -10,8 +7,6 @@ const Bands = require("./Bands.js");
 
 function createFest(name) {
   const fest = new Festival(name);
-  //fest.setEventFrequency(3);
-  //fest.setEventChance(90);
   const schedule = new Schedule(fest);
   fest.schedule = schedule.slots;
   fest.bands = Bands;
