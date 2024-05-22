@@ -12,8 +12,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^1.6.8",
     "express": "^4.17.1",
     "just-random-integer": "^4.0.0",
+    "node-cron": "^3.0.3",
     "uniqid": "^5.3.0"
   },
   "devDependencies": {

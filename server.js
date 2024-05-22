@@ -1,6 +1,10 @@
-/* eslint-env node, es6 */
 const express = require("express");
-var app = express();
+const cron = require("node-cron");
+const axios = require("axios");
+const { FooFest } = require("./src/foofest");
+const { initialSettings } = require("./src/static/settings");
+
+const app = express();
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
@@ -10,12 +14,11 @@ app.use(function (req, res, next) {
     "Access-Control-Allow-Headers",
     "Origin, X-Requested-With, Content-Type, Accept"
   );
-  res.header("Access-Control-Allow-Methods", "GET, POST, PUT, OPTIONS"); //PATCH?
+  res.header("Access-Control-Allow-Methods", "GET, POST, PUT, OPTIONS");
   next();
 });
 app.use(express.static("public"));
-const { FooFest } = require("./src/foofest");
-const { initialSettings } = require("./src/static/settings");
+
 app.get("/", function (req, res) {
   res.json({
     isMyServerLive: true,
@@ -36,9 +39,7 @@ app.get("/schedule", function (req, res) {
 app.get("/version", function (req, res) {
   res.json({ version: initialSettings.version });
 });
-//TODO: day? vil jeg have den? nok ikke
 app.get("/schedule/:day", function (req, res) {
-  //`mon`, `tue`, `wed`, `thu`, `fri`, `sat`, `sun`
   const day = parseInt(req.params.day);
   res.json(FooFest.schedule);
 });
@@ -89,6 +90,27 @@ app.put("/reserve-spot", function (req, res) {
 
 app.post("/fullfill-reservation", function (req, res) {
   res.send(FooFest.booking.fullfillReservation(req.body.id));
+});
+
+// Cleanup endpoint
+app.delete("/clean-expired-reservations", function (req, res) {
+  try {
+    const result = FooFest.booking.cleanExpiredReservations();
+    res.status(200).json(result);
+  } catch (error) {
+    console.error('Error cleaning expired reservations:', error);
+    res.status(500).json({ error: 'Failed to clean expired reservations' });
+  }
+});
+
+// Schedule the cleanup function to run every minute
+cron.schedule('* * * * *', async () => {
+  try {
+    await axios.delete('http://localhost:8080/clean-expired-reservations');
+    console.log('Expired reservations cleaned');
+  } catch (error) {
+    console.error('Error cleaning expired reservations:', error);
+  }
 });
 
 app.listen(process.env.PORT || 8080);
