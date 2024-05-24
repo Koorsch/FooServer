@@ -10,20 +10,20 @@ class Booking {
     this.areas = [
       {
         area: "Midgard",
+        spots: 600,
+        available: rndBetween(1, 600),
+        direction: -1,
+      },
+      {
+        area: "Vanaheim",
         spots: 400,
         available: rndBetween(1, 400),
         direction: -1,
       },
       {
-        area: "Vanaheim",
-        spots: 300,
-        available: rndBetween(1, 300),
-        direction: -1,
-      },
-      {
         area: "Alfheim",
-        spots: 100,
-        available: rndBetween(1, 100),
+        spots: 200,
+        available: rndBetween(1, 200),
         direction: -1,
       }
     ];
