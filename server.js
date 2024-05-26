@@ -3,6 +3,7 @@ const cron = require("node-cron");
 const axios = require("axios");
 const { FooFest } = require("./src/foofest");
 const { initialSettings } = require("./src/static/settings");
+const { Booking } = require("./src/Booking");
 
 const app = express();
 app.use(express.json());
@@ -18,6 +19,9 @@ app.use(function (req, res, next) {
   next();
 });
 app.use(express.static("public"));
+
+const fest = { eventChance: 10 };
+FooFest.booking = new Booking(fest);
 
 app.get("/", function (req, res) {
   res.json({
@@ -103,7 +107,7 @@ app.delete("/clean-expired-reservations", function (req, res) {
   }
 });
 
-// Schedule the cleanup function to run every minute
+
 cron.schedule('* * * * *', async () => {
   try {
     await axios.delete('http://localhost:8080/clean-expired-reservations');

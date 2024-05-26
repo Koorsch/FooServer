@@ -1,3 +1,4 @@
+// src/util/observer.js
 const observer = (function () {
   "use strict";
   const events = {};
