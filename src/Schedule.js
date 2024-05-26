@@ -6,7 +6,6 @@ const { observer } = require("./util/observer");
 const { events } = require("./util/events");
 class Schedule {
   constructor(fest) {
-    //TODO: ? flatten array and add stage/day?
     this.fest = fest;
     this.scenes = ["Midgard", "Vanaheim", "Alfheim"];
     this.days = ["mon", "tue", "wed", "thu", "fri", "sat", "sun"];
@@ -30,7 +29,7 @@ class Schedule {
           scene,
           day,
           act: this.slots[scene][day][slot],
-        }); //TODO args, which event
+        });
         this.slots[scene][day][slot].cancelled = true;
       }
     }
@@ -43,24 +42,12 @@ class Schedule {
       thu: [],
       fri: [],
       sat: [],
-      sun: [],
+      sun: []
     };
     return temp;
   }
-  /* _getMembers() {
-    let members = [];
-    const amount = Math.floor(Math.random() * 4);
-    for (let i = 0; i < amount; i++) {
-      members.push(faker.name.firstName() + " " + faker.name.lastName());
-    }
-    return members;
-  } */
   fillSlots() {
     const copy = bands.map((band) => band.name);
-    let start = copy.length;
-    /* for (; start < 6 * 7 * 3; start++) {
-      copy.push(faker.company.companyName());
-    } */
     shuffle(copy);
     this._fillStage(this.scenes[0], copy.slice(0, 42));
     this._fillStage(this.scenes[1], copy.slice(42, 84));
@@ -74,8 +61,6 @@ class Schedule {
     this.slots[stage].fri = this._addBreaks(acts.slice(24, 30));
     this.slots[stage].sat = this._addBreaks(acts.slice(30, 36));
     this.slots[stage].sun = this._addBreaks(acts.slice(36, 42));
-
-    //console.dir(this.slots);
   }
   _addBreaks(acts) {
     const nextActs = [];
